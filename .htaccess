@@ -1,0 +1,5 @@
+ServerSignature Off
+# END - Disable server signature #
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !^public
+RewriteRule ^(.*)$ public/$1 [L]

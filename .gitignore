@@ -1,0 +1,9 @@
+node_modules/
+.history/
+.well-known/
+.env
+vendor/
+storage/
+nico/
+backup.zip
+public/images/

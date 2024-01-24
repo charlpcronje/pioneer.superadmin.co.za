@@ -1,0 +1,13 @@
+{
+    "name": "FileManager",
+    "alias": "filemanager",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
